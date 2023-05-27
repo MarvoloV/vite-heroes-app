@@ -35,7 +35,7 @@ export const HeroCard = ({
 
 
     return (
-        <div className="col animate__animated animate__fadeIn">
+        <div className="col animate__animated animate__fadeIn" aria-label='dc-heroe'>
             <div className="card">
 
                 <div className="row no-gutters">
